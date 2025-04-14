@@ -2,10 +2,10 @@
 
 //30 JavaScript Exercises for Students
 
-// console.log("Question 1: Create a variable to store your name and display it in an alert")
-// let myName = "Suame Ikechukwu Paul";
-// const alert = require('alert');
-// alert(myName);
+console.log("Question 1: Create a variable to store your name and display it in an alert")
+let myName = "Suame Ikechukwu Paul";
+const alert = require('alert');
+alert(myName);
 
 //2. Declare two number variables and show their sum, difference, product, and quotient.
 console.log("Question 2: Declare two number variables and show their sum, difference, product, and quotient.");
